@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif; /* Pakeičia visų elementų šriftą */
+}
+hr {
+  opacity: 0.3;
+}
+
+p {
+  line-height: 1.8;
+  text-indent: 15px;
+}
+p.edition {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+p.tags {
+  text-indent: 0;
+}
+a {
+  color: rgb(32, 163, 245);
+}
